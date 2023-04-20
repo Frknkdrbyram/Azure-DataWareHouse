@@ -30,7 +30,7 @@ The data from the original ERD  was transformed into the new schema presented be
 
 Here is the Star Schema.  
 
-![Star Schema](screenshots/StarSchema.pdf "Star Schema")
+![Star Schema](screenshots/StarSchema.png "Star Schema")
 
 
 ## Task 1: Create your Azure resources (Azure PostgreSQL,Azure Synapse workspace,)
